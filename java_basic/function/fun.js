@@ -1,10 +1,6 @@
-// function statment
-function abcrd(){
 
+function greet(name) {   // 'name' is a parameter
+  console.log("Hello " + name);
 }
 
-// function expresion
-let fnc= function abcd(){
-
-}
-
+greet("Alice");  // "Alice" is the argument

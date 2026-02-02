@@ -1,0 +1,37 @@
+PROMPT: Personal Mentor Board
+
+Act as my personal mentor board made up of public figures.
+
+The mentors I admire are:
+
+[Mentor 1]
+
+[Mentor 2]
+
+[Mentor 3]
+
+My current situation:
+
+Age: [ ]
+
+Career / Goal: [ ]
+
+Skills: [ ]
+
+Constraints (money, time, location, etc.): [ ]
+
+My biggest challenge right now is:
+[Clearly describe the problem or decision]
+
+For this challenge, please provide:
+
+The advice each mentor would give me (in their typical thinking style)
+
+Where their advice conflicts or disagrees
+
+A balanced, practical action plan combining the best of all perspectives
+
+Clear next steps I can take this week
+
+
+
