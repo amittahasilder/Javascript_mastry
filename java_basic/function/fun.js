@@ -1,15 +1,13 @@
-
-function greet(name) {   // 'name' is a parameter
-  console.log("Hello " + name);
+function num(n, callback) {
+    return callback(n);
 }
 
-greet("Alice");  // "Alice" is the argument
+const double = (n) => n * 2;
+
+console.log(num(5, double));
 
 
-
-function add(a, b) {
-  return a + b; // returns the sum
-}
-
-let result = add(5, 10);
-console.log(result);
+const greet = function() {
+  return "Hi there!";
+};
+console.log(greet());
